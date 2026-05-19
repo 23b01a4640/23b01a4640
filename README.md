@@ -39,9 +39,8 @@ This profile is where I share my projects, experiments, and things I'm actively 
 - 🏆 Selected among 80,000+ applicants for **Amazon ML Summer School 2025**
 - 🚀 **Finalist at Flipkart Runway 2025** out of 52,000+ applicants
 - 🥇 Top **1.54%** at **Adobe India Hackathon 2025** (260,000+ participants)
-- 💡 **LeetCode rating 1800+** — I genuinely enjoy solving problems
+- 💡 **LeetCode rating 1800+** - I genuinely enjoy solving problems
 - 📚 Reliance Foundation Undergraduate Scholar (2024)
-- 🎤 Associate Manager, Marketing — TEDxSVECW
 
 ---
 
